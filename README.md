@@ -1,6 +1,6 @@
 # Responsive-Design
 
-A website with responsive design. 
+A website designed with responsive design. 
 
 Each section will automatically resize and relocate based on the screen size.
 
